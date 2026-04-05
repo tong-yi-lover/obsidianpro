@@ -1,4 +1,19 @@
-*.ogg
-*.mp3
+# 忽略无损音乐文件
+*.flac
+*.wav
+*.ape
+# 忽略常见大文件
 *.zip
 *.rar
+*.7z
+*.dmg
+*.iso
+*.mp4
+# Obsidian 临时文件
+*.base
+*.canvas
+.DS_Store
+彤呜
+*.ogg
+QQ音乐
+音乐
