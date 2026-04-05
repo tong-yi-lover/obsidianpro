@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fcfba0bfdb7f92d5",
+        "id": "d02361c6bdc3adef",
         "type": "tabs",
         "children": [
           {
-            "id": "a707a9e2b541ad1a",
+            "id": "c3246a10dbf0360c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,8 +196,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a707a9e2b541ad1a",
+  "active": "c3246a10dbf0360c",
   "lastOpenFiles": [
+    "彤呜 copy/1726585177026.jpeg",
+    "彤呜 copy/1726585176511.jpeg",
+    "彤呜 copy/1726585175872.jpeg",
+    "Dashboard-Komorebi.md",
+    "2026-04-04.md",
+    "未命名 1.base",
+    "未命名.canvas",
+    "未命名.base",
+    "QQ音乐/Hans Zimmer-Tennessee-1.ogg",
+    "QQ音乐/Hans Zimmer,La Pieta,Angele Dubeau,Klaus Badelt-He's a Pirate.ogg",
+    "QQ音乐/Hans Zimmer-Detach.ogg",
+    "QQ音乐/Hans Zimmer-Inception (Junkie XL Remix).ogg",
+    "QQ音乐/Hans Zimmer,John Lithgow,Ellen Burstyn,Casey Affleck,Jessica Chastain,Matthew McConaughey,Mackenzie Foy-Do Not Go Gentle Into That Good Night.ogg",
+    "QQ音乐/Hans Zimmer-End Credits.ogg",
+    "QQ音乐/Hans Zimmer-Attack.ogg",
+    "QQ音乐/Faith Hill-Faith Hill - There You'll Be.ogg",
     "彤呜 copy/WechatIMG65.jpg",
     "彤呜 copy/WechatIMG63.jpg",
     "彤呜 copy/1726585177896.jpeg",
@@ -205,15 +221,6 @@
     "彤呜 copy/1726585177858.jpeg",
     "彤呜 copy/1726585177651.jpeg",
     "彤呜 copy/1726585177546.jpeg",
-    "彤呜 copy/1726585176999.jpeg",
-    "彤呜 copy/1726585177285.jpeg",
-    "彤呜 copy/1726585177258.jpeg",
-    "彤呜 copy/1726585177026.jpeg",
-    "彤呜 copy",
-    "彤呜",
-    "Dashboard-Komorebi.md",
-    "2026-04-04.md",
-    "未命名.base",
-    "未命名 1.base"
+    "彤呜 copy/1726585176999.jpeg"
   ]
 }
