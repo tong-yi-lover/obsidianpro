@@ -1,0 +1,11 @@
+{
+  "translucency": true,
+  "enabledCssSnippets": [
+    "Dashboard-Brutalist",
+    "Dashboard-Komorebi",
+    "Dashboard-Zen"
+  ],
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "accentColor": "#7d6a95"
+}
