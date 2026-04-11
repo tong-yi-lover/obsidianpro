@@ -1,3 +1,7 @@
+---
+banner: "![[WechatIMG65.jpg]]"
+banner_y: 0.5
+---
 ```dataviewjs
 // Dashboard-Komorebi
 // more dashboards → https://github.com/InlitX/Obsidian-Dashboard-Gallery

@@ -1,7 +1,5 @@
 {
   "readableLineLength": false,
   "spellcheck": false,
-  "autoPairMarkdown": true,
-  "strictLineBreaks": false,
-  "propertiesInDocument": "visible"
+  "autoPairMarkdown": true
 }
